@@ -1,0 +1,2 @@
+model_checkpoint_path: "lenet_traffic_classifier"
+all_model_checkpoint_paths: "lenet_traffic_classifier"
